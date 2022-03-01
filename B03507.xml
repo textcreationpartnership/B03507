@@ -1,0 +1,266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great Brittains arlarm [sic] to drowsie sinners in destress. Being a rule for all sorts of people to follow in these distracted and dangerous times: shewing the judgements which hang over our heads for sin, and the way by repentance, to avoid the same. Very good and necessary for all sorts of people to peruse. All you that do this larm hear, strive to live well, and God to fear. The tune is, Aim not too high.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670-1998?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03507</idno>
+            <idno type="STC">Wing G1665</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[202]</idno>
+            <idno type="EEBO-CITATION">99887714</idno>
+            <idno type="PROQUEST">ocm99887714</idno>
+            <idno type="VID">183367</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183367)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[158])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great Brittains arlarm [sic] to drowsie sinners in destress. Being a rule for all sorts of people to follow in these distracted and dangerous times: shewing the judgements which hang over our heads for sin, and the way by repentance, to avoid the same. Very good and necessary for all sorts of people to peruse. All you that do this larm hear, strive to live well, and God to fear. The tune is, Aim not too high.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby at the Harp and Ball in Pye-Corner, near West Smithfield.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[not before 1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "Rouse up dull sinners all with one accord ..."</note>
+                  <note>Trimmed.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="202" facs="tcp:183367:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <head>Great Brittains Arlarm to Drowſie Sinners in Deſtreſs</head>
+            <argument>
+               <p>Being a Rule for all ſorts of people to follow in theſe diſtracted and dangerous Times: Shewing the Judgements which hang over our heads for Sin, and the way by Repentance, to avoid the ſame. Very good and neceſſary for all ſorts of people to peruſe.</p>
+               <l>All you that do this Larum hear,</l>
+               <l>Strive to live well, and God to fear.</l>
+            </argument>
+            <opener>The Tune is, Aim not too high.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>ROuſe up dull Sinners all with one accord,</l>
+               <l>With prayers &amp; tears now call upon the Lord,</l>
+               <l>Security hath lull'd us faſt aſleep.</l>
+               <l>When as we have moſt cauſe to mourn and weep.</l>
+            </lg>
+            <lg>
+               <l>Remember Man, thy time it is but ſhort,</l>
+               <l>Then of the ſame thou ſhould'ſt not make a ſport;</l>
+               <l>Leaſt thou by ſudden death be ſnatcht away,</l>
+               <l>To give account at the great Iudgement-day.</l>
+            </lg>
+            <lg>
+               <l>Whilſt thou in prime of youth doſt ſpend thy days,</l>
+               <l>And takeſt pleaſure in thy wicked ways:</l>
+               <l>Be well advis'd, and think upon thy doom,</l>
+               <l>That young and old muſt all to judgement come.</l>
+            </lg>
+            <lg>
+               <l>So ſoon as in the morning you awake,</l>
+               <l>Vnto your Lord by Prayer your ſelves betake:</l>
+               <l>Then to thy labour fall if thou art poor,</l>
+               <l>And God will bleſs thy basket and thy ſtore.</l>
+            </lg>
+            <lg>
+               <l>Defraud no man although thou <gap reason="illegible: indecipherable" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be in want</l>
+               <l>But be content, although thy ſtock be ſtane,</l>
+               <l>For goods ill gotten will conſume away,</l>
+               <l>And leave a Curſe that will remain for aye.</l>
+            </lg>
+            <lg>
+               <l>Vnto thy honeſt Neighbours ſtill be kind,</l>
+               <l>And ſure therein great comfort thou ſhalt find</l>
+               <l>A friend will ſtick when Riches they are gone,</l>
+               <l>Therefore endeavour to provide for one.</l>
+            </lg>
+            <lg>
+               <l>If thou art bleſt with Children at the board,</l>
+               <l>Be ſure you bring them up to ſerve the Lord:</l>
+               <l>And for a portion God he will provide.</l>
+               <l>And give a bleſſing to their Souls beſide.</l>
+            </lg>
+            <lg>
+               <l>A Child ill-natur'd proves a grievous Curſe,</l>
+               <l>His wicked courſes will offend thee worſe:</l>
+               <l>A twig will bend when it is young and weak,</l>
+               <l>But being old and ſtubborn it will break.</l>
+            </lg>
+            <pb n="203" facs="tcp:183367:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Flye from all ſin, as from a Serpents ſting,</l>
+               <l>Much harm to Soul and body it will bring:</l>
+               <l>VVhen ſinful pleaſures are blown o're and paſt,</l>
+               <l>Then grief and ſorrow doth remain at laſt.</l>
+            </lg>
+            <lg>
+               <l>VVhat pleaſure hath the Drunkard in his wine,</l>
+               <l>To make himſelf far worſe than any Swine:</l>
+               <l>His wealth conſumes away, if wealth he have,</l>
+               <l>And ſurfeits ſends him to his loathed Grave.</l>
+            </lg>
+            <lg>
+               <l>He that on Harlots ſpends his gold and pelf,</l>
+               <l>He neither values credit nor himſelf:</l>
+               <l>Vntil diſeaſes brings him to his end,</l>
+               <l>And then it is too late for to amend.</l>
+            </lg>
+            <lg>
+               <l>The Swearer he doth damn his Soul in vain,</l>
+               <l>No benefit thereby that he doth gain:</l>
+               <l>So that he doth fulfill his baſe deſire,</l>
+               <l>He never thinks of Hells eternal fire.</l>
+            </lg>
+            <lg>
+               <l>The ſin of Pride amongſt us is too rife,</l>
+               <l>VVho ſhould exceed in bravery is the ſtrife:</l>
+               <l>They do not think that one day dye they muſt,</l>
+               <l>And then their Pride is laid within the duſt.</l>
+            </lg>
+            <lg>
+               <l>The covetous Miſer makes his Gold his God,</l>
+               <l>Whilſt others wants it, he doth plot and plod</l>
+               <l>To fill his Coffers whatſoe're befall,</l>
+               <l>Vntil at laſt he gets the Devil and all.</l>
+            </lg>
+            <lg>
+               <l>Theſe are the ſins, beſides a many more,</l>
+               <l>That brings Gods iudgements down upon us ſore</l>
+               <l>And makes him ſmite us with his heavy Rod,</l>
+               <l>Becauſe we do offend our gracious God.</l>
+            </lg>
+            <lg>
+               <l>Lord turn thy wrath away from us again,</l>
+               <l>Leaſt under thy diſpleaſure we remain:</l>
+               <l>For thy fierce anger we have felt of late,</l>
+               <l>Yet it does not our hanious ſins abate.</l>
+            </lg>
+            <lg>
+               <l>With Plague and Fire we have ſuffered ſore,</l>
+               <l>And now with Wars our Land is vexed more:</l>
+               <l>Theſe judgements for our ſins the Lord doth ſend,</l>
+               <l>And worſe may come, unleſs our lives we mend.</l>
+            </lg>
+            <lg>
+               <l>For bleſt be God, no Famine we have felt,</l>
+               <l>The Lord hath mercifully with us dealt:</l>
+               <l>But if we once provoke his wrath again,</l>
+               <l>We may have cauſe for hunger to complain.</l>
+            </lg>
+            <lg>
+               <l>Once more, I ſay, O ſinners now awake,</l>
+               <l>And all your hanious ſins in time forſake<g ref="char:punc">▪</g>
+               </l>
+               <l>Who knows but that the Lord will hear our prayer<g ref="char:punc">▪</g>
+               </l>
+               <l>And ſhew us mercy for unfeigned tears.</l>
+            </lg>
+            <lg>
+               <l>And let each one that reads what here is pen'd,</l>
+               <l>Strive night and day their lives for to amend:</l>
+               <l>That God in mercy all our Souls may ſave,</l>
+               <l>When as we fall into the ſilent Gra<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>P. Brooksbys</hi> at the Harp and Ball in <hi>Pye-Co<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ner,</hi> near <hi>Weſt Smithfield.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
